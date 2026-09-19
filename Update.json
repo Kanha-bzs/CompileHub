@@ -1,6 +1,8 @@
 {
-  "Update_Log" : "Initial update",
-  "Version" : "1.0 Quark",
-  "V_Code" : "26091901",
-  "Download_Link" : "https://hello.com"
+  "Version": "1.0-Quark",
+  "V_Code": 1,
+  "Title": "CompileHub v1.0 • Quark Released!",
+  "Update_Log": "<b>🚀 Welcome to CompileHub v1.0 • Quark!</b><br><br><b>Core IDE & Engine:</b><br>• High-performance GapBuffer editing engine with zero lag<br>• Smart Java & XML code completion with auto-import<br>• Code folding, syntax highlighting, regex search & replace<br><br><b>Compiler & Build Tools:</b><br>• Instant APK compilation powered by ECJ (Java 11) & R8 minifier<br>• AAPT & AAPT2 resource compiler with multi-module support<br><br><b>Visual Designer & Intelligence:</b><br>• Drag & Drop visual XML layout builder with live inspector<br>• Live XML Vector Drawable & image previewer<br>• Code usage finder, symbol lookup, and local revision history<br><br><b>Developer Utilities:</b><br>• Built-in Linux Terminal with customizable extra keys<br>• Integrated Gemini AI Assistant for smart code generation<br>• APK Signer supporting V1, V2, V3 signature schemes",
+  "Download_Link": "https://github.com/developer-krushna/CompileHub/releases/download/v1.0-Quark/CompileHub.apk",
+  "Official_Page": "https://compile-hub.blogspot.com"
 }
