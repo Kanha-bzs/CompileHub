@@ -1,7 +1,7 @@
 [
-   {
-      "Version_Name": "1.0-Quark",
-      "Update_Date": "20 Sep 2026",
-      "Update_Log": ""
-   }
+  {
+    "Version_Name": "1.0-Quark",
+    "Update_Date": "20 Sep 2026",
+    "Update_Log": "📣 Initial Release of Compile Hub with following features list\n\n⚡ High-performance GapBuffer editing engine with zero lag\n🛠️ Instant APK compilation with ECJ (Java 11) & R8 minifier\n🎨 Drag & Drop visual XML layout builder with live inspector\n👁️ Live XML Vector Drawable & image asset previewer\n🔍 Code usage finder, symbol lookup, and global regex search\n📜 Visual Git Diff checker & local file revision history\n💻 Integrated Linux Terminal with custom extra keys bar\n🤖 Integrated Gemini AI Agent for automated code refactoring\n🔑 APK Signer supporting V1, V2, V3 signature schemes with custom JKS keys"
+  }
 ]
