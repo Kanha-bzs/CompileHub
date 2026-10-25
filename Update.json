@@ -1,8 +1,8 @@
 {
-  "Version": "1.0-Quark",
-  "V_Code": 1,
-  "Title": "CompileHub v1.0 • Quark Released!",
-  "Update_Log": "<b>🚀 Welcome to CompileHub v1.0 • Quark!</b><br><br><b>Core IDE & Engine:</b><br>• High-performance GapBuffer editing engine with zero lag<br>• Smart Java & XML code completion with auto-import<br>• Code folding, syntax highlighting, regex search & replace<br><br><b>Compiler & Build Tools:</b><br>• Instant APK compilation powered by ECJ (Java 11) & R8 minifier<br>• AAPT & AAPT2 resource compiler with multi-module support<br><br><b>Visual Designer & Intelligence:</b><br>• Drag & Drop visual XML layout builder with live inspector<br>• Live XML Vector Drawable & image previewer<br>• Code usage finder, symbol lookup, and local revision history<br><br><b>Developer Utilities:</b><br>• Built-in Linux Terminal with customizable extra keys<br>• Integrated Gemini AI Assistant for smart code generation<br>• APK Signer supporting V1, V2, V3 signature schemes",
-  "Download_Link": "https://github.com/developer-krushna/CompileHub/releases/download/v1.0-Quark/CompileHub.apk",
+  "Version": "2.0-Quantum",
+  "V_Code": 2,
+  "Title": "CompileHub v2.0 • Quantum Released!",
+  "Update_Log": "• Added Kotlin compiler\n• Added Kotlin Compose with real-time preview\n• Added Git commit controller based on API key (VIP)\n• Added JKS key generator\n• Upgraded ProGuard from version 6 to version 7\n• Added ADB APK installer and debugger\n• Added field variable renamer (VIP)\n• Added Python compiler\n• Added Java and Kotlin console project manager\n• Added Fast Code access via shortcut keys\n• Added multiple code formatters (Python, C++, Kotlin)\n• Added C++ builder (VIP)\n• Added AAB file generation (VIP)\n• Enhanced Agent to compile console projects via terminal, automatically test according to requirements, and download and read files\n• Added build performance changer\n• Added new tab-based shortcut keys panel\n• Added device-specific performance optimization\n• Fixed several compiler-related issues and optimized performance for lower Android versions\n• Fixed the delete-line feature in the editor",
+  "Download_Link": "https://github.com/developer-krushna/CompileHub/releases/download/v2.0-Quantum/Compile_Hub_2.0-Quantum.apk",
   "Official_Page": "https://compile-hub.blogspot.com"
 }
