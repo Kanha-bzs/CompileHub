@@ -3,5 +3,10 @@
     "Version_Name": "1.0-Quark",
     "Update_Date": "20 Sep 2026",
     "Update_Log": "📣 Initial Release of Compile Hub with following features list\n\n⚡ High-performance GapBuffer editing engine with zero lag\n🛠️ Instant APK compilation with ECJ (Java 11) & R8 minifier\n🎨 Drag & Drop visual XML layout builder with live inspector\n👁️ Live XML Vector Drawable & image asset previewer\n🔍 Code usage finder, symbol lookup, and global regex search\n📜 Visual Git Diff checker & local file revision history\n💻 Integrated Linux Terminal with custom extra keys bar\n🤖 Integrated Gemini AI Agent for automated code refactoring\n🔑 APK Signer supporting V1, V2, V3 signature schemes with custom JKS keys"
-  }
+  },
+    {
+    "Version_Name": "2.0-Quantum",
+    "Update_Date": "25 Oct 2026",
+    "Update_Log": "• Added Kotlin compiler\n• Added Kotlin Compose with real-time preview\n• Added Git commit controller based on API key (VIP)\n• Added JKS key generator\n• Upgraded ProGuard from version 6 to version 7\n• Added ADB APK installer and debugger\n• Added field variable renamer (VIP)\n• Added Python compiler\n• Added Java and Kotlin console project manager\n• Added Fast Code access via shortcut keys\n• Added multiple code formatters (Python, C++, Kotlin)\n• Added C++ builder (VIP)\n• Added AAB file generation (VIP)\n• Enhanced Agent to compile console projects via terminal, automatically test according to requirements, and download and read files\n• Added build performance changer\n• Added new tab-based shortcut keys panel\n• Added device-specific performance optimization\n• Fixed several compiler-related issues and optimized performance for lower Android versions\n• Fixed the delete-line feature in the editor"
+    }
 ]
